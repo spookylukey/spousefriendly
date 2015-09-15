@@ -6,7 +6,8 @@ spousefriendly
         :target: https://pypi.python.org/pypi/spousefriendly
 
 
-Be nice to your spouse - give your command line scripts some GUI feedback when needed.
+Be nice to your spouse (or other person who needs to run your scripts) - give
+your command line scripts some GUI feedback when needed.
 
 * Free software: ISC license
 * Documentation: https://bitbucket.org/spookylukey/spousefriendly

@@ -9,12 +9,12 @@ spousefriendly
 Be nice to your spouse - give your command line scripts some GUI feedback when needed.
 
 * Free software: ISC license
-* Documentation: https://spousefriendly.readthedocs.org.
+* Documentation: https://bitbucket.org/spookylukey/spousefriendly
 
 Motivation
 ----------
 
-Developer types usually like to run scripts from a command line. In addition,
+Developers usually like to run scripts from a terminal. In addition,
 for these kind of Python scripts, if something goes wrong, the easiest thing to
 do is let it fail 'ungracefully', at which point you get a helpful stacktrace on
 the screen. And if it goes well, it should just exit without printing anything.

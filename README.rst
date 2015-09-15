@@ -83,3 +83,9 @@ TODO
 Windows support! This is the most obvious one. Since I don't use Windows, I'm
 not in a position to test this. I've put some rudimentary things in, but it
 probably doesn't work.
+
+Where interactive user input is needed, it would be nice to have some simple
+wrappers that provide a GUI or terminal alternative automatically. However, I'd
+normally use command line arguments rather than 'input' for this kind of thing.
+It might be possible to create a wrapper that replace required command line
+arguments with a GUI prompt - could hook into optparse or argparse.
